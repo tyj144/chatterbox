@@ -36,6 +36,37 @@
           "status": 2
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426187660027:android:77051072ec4a266e",
+        "android_client_info": {
+          "package_name": "com.tyj144.chatterbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426187660027-i276d4mjbp7e3ejmaiipnevlhd15u0np.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPzI5rlC86SO68Z3_qKMM7uIYXXTmAvyA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
     }
   ],
   "configuration_version": "1"

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#28759A</color>
+    <color name="colorPrimary">#28759A</color>
+    <color name="colorPrimaryDark">#FF1C5470</color>
     <color name="colorAccent">#FF4081</color>
 
     <color name="yellow">#f1c40f</color>
@@ -11,5 +11,8 @@
     <color name="light_purple">#E8E1E7</color>
     <color name="light_green">#50d050</color>
     <color name="dark_green">#008000</color>
+    <color name="light_grey">#999999</color>
+    <color name="grey_on_dark">#ddd</color>
+    <color name="transparent_dark">#4B000000</color>
 
 </resources>

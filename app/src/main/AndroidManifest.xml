@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest
-    package="com.tyj144.flashchatnewfirebase"
+    package="com.tyj144.chatterbox"
     xmlns:android="http://schemas.android.com/apk/res/android">
 
     <uses-permission android:name="android.permission.INTERNET" />
@@ -13,7 +13,7 @@
         android:theme="@style/AppTheme" >
 
         <activity
-            android:name="com.tyj144.flashchatnewfirebase.LoginActivity"
+            android:name="com.tyj144.chatterbox.LoginActivity"
             android:label="@string/app_name"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden|adjustPan" >
@@ -25,12 +25,12 @@
         </activity>
 
         <activity
-            android:name="com.tyj144.flashchatnewfirebase.RegisterActivity"
+            android:name="com.tyj144.chatterbox.RegisterActivity"
             android:screenOrientation="portrait">
         </activity>
 
         <activity
-            android:name="com.tyj144.flashchatnewfirebase.MainChatActivity"
+            android:name="com.tyj144.chatterbox.MainChatActivity"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden|adjustResize">
         </activity>

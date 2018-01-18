@@ -4,7 +4,7 @@ android {
     compileSdkVersion 25
 
     defaultConfig {
-        applicationId "com.tyj144.flashchatnewfirebase"
+        applicationId "com.tyj144.chatterbox"
         minSdkVersion 16
         targetSdkVersion 25
         versionCode 1
@@ -25,7 +25,6 @@ dependencies {
     compile 'com.android.support:design:25.3.1'
     compile 'com.google.firebase:firebase-database:9.0.0'
     compile 'com.google.firebase:firebase-auth:9.0.0'
-
 }
 
 apply plugin: 'com.google.gms.google-services'
